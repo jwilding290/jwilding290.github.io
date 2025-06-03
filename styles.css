@@ -145,17 +145,17 @@ header p {
 }
 
 
-ul {Interactive Data visualisation
+ul {
 
-footer {
-    text-align: center;
-    margin-top: 20px;
-    font-size: 0.9em;
+  footer {
+      text-align: center;
+      margin-top: 20px;
+      font-size: 0.9em;
+  }
 }
 
-
 button {
-  background-color: #e42828;Interactive Data visualisation
+  background-color: #e42828;
   cursor: pointer;
   margin: 4px 0;
 }
@@ -175,4 +175,3 @@ button {
   background-color: #1a1ab8;
 }
 
-Interactive Data visualisation
